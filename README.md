@@ -1,0 +1,1 @@
+# projectdiva_static
